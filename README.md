@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+<a href="https://github.com/sergiommarcial">
+  <picture height=200 align="center">
+    <source
+      srcset="https://github-readme-stats-9h7l2adcu-sergiommarcial.vercel.app/api?username=sergiommarcial&show_icons=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)" />
+    <source
+      srcset="https://github-readme-stats-9h7l2adcu-sergiommarcial.vercel.app/api?username=sergiommarcial&show_icons=true&theme=transparent"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats-9h7l2adcu-sergiommarcial.vercel.app/api?username=sergiommarcial" />
+  </picture>
+</a>
+<a href="https://github.com/sergiommarcial">
+  <picture height=200 align="center">
+    <source
+      srcset="https://github-readme-stats-9h7l2adcu-sergiommarcial.vercel.app/api/top-langs/?username=sergiommarcial&layout=compact&langs_count=8&theme=github_dark"
+      media="(prefers-color-scheme: dark)" />
+    <source
+      srcset="https://github-readme-stats-9h7l2adcu-sergiommarcial.vercel.app/api/top-langs/?username=sergiommarcial&layout=compact&langs_count=8&theme=transparent"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img
+      src="https://github-readme-stats-9h7l2adcu-sergiommarcial.vercel.app/api/top-langs/?username=sergiommarcial&layout=compact&langs_count=8" />
+  </picture>
+</a>
+
 🚀 Welcome to my digital domain, where I'm a software virtuoso conducting a symphony of code! With my fingers dancing across the keyboard like a maestro's baton, I weave intricate algorithms and spellbinding solutions that bring ideas to life. As a software engineer by day and a code sorcerer by night, I'm on a relentless quest to turn caffeine into innovative software that shapes the future.
 
 🌌 Embarking on a cosmic coding journey, I traverse the galaxies of programming languages, mastering each constellation from Python's serpentine elegance to JavaScript's cosmic interactivity. My commits are like shooting stars, illuminating the night sky of repositories with brilliance and pushing the boundaries of what's possible.
