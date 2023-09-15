@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there Hi there <a href="https://github.com/sergiommarcial"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ![:name](https://count.getloli.com/get/@sergiommarcial)
+
+🚀 Welcome to my digital domain, where I'm a software virtuoso conducting a symphony of code! With my fingers dancing across the keyboard like a maestro's baton, I weave intricate algorithms and spellbinding solutions that bring ideas to life. As a software engineer by day and a code sorcerer by night, I'm on a relentless quest to turn caffeine into innovative software that shapes the future.
+
+📕 &nbsp;**Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <a href="https://github.com/sergiommarcial">
   <picture height=200 align="center">
@@ -25,8 +32,6 @@
       src="https://github-readme-stats-9h7l2adcu-sergiommarcial.vercel.app/api/top-langs/?username=sergiommarcial&layout=compact&langs_count=8" />
   </picture>
 </a>
-
-🚀 Welcome to my digital domain, where I'm a software virtuoso conducting a symphony of code! With my fingers dancing across the keyboard like a maestro's baton, I weave intricate algorithms and spellbinding solutions that bring ideas to life. As a software engineer by day and a code sorcerer by night, I'm on a relentless quest to turn caffeine into innovative software that shapes the future.
 
 🌌 Embarking on a cosmic coding journey, I traverse the galaxies of programming languages, mastering each constellation from Python's serpentine elegance to JavaScript's cosmic interactivity. My commits are like shooting stars, illuminating the night sky of repositories with brilliance and pushing the boundaries of what's possible.
 
