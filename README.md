@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![:name](https://count.getloli.com/get/@sergiommarcial)
+
 <a href="https://github.com/sergiommarcial">
   <picture height=200 align="center">
     <source
