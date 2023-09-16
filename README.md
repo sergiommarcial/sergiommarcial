@@ -273,7 +273,6 @@
 ## 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Kafka Simplified with kcat &lpar;kafka cat&rpar; 🚀](https://dev.to/sergiomarcial/kafka-simplified-with-kcat-kafka-cat-1gn7)
 - [Mastering jq: A Quick Guide to get you started](https://dev.to/sergiomarcial/mastering-jq-a-quick-guide-to-get-you-started-4mm6)
 - [🚀🧪Unlocking the Power of Approval Testing 🔥💻](https://dev.to/sergiomarcial/unlocking-the-power-of-approval-testing-a-comprehensive-guide-for-software-engineers-3o6f)
