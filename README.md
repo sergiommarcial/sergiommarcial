@@ -14,7 +14,7 @@
   <li style="list-style-type: none" >🚀 Backend polyglot enthusiast</li>
   <li style="list-style-type: none" >📚 Exploring new front end frameworks (<a href="https://nextjs.org/" target="_blank">NextJS</a> and <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a>)</li>
   <li style="list-style-type: none" >📚 Exploring machile learning and LLM</li>
-  <li style="list-style-type: none" >📧 Reach out: [sergio@sergiomarcial.com](mailto:sergio@sergiomarcial.com)</li>
+  <li style="list-style-type: none" >📧 Reach out: <a href="mailto:mailto:sergio@sergiomarcial.com" target="_blank">Email Me</a></li>
 </ul>
 
 <h3 align="left">Languages:</h3>
