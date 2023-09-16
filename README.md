@@ -5,9 +5,15 @@
 
 </p>
 
-### ✨&nbsp; About Me
+### ✨&nbsp; About M
 
-🚀 Welcome to my digital domain, where I'm a software virtuoso conducting a symphony of code! With my fingers dancing across the keyboard like a maestro's baton, I weave intricate algorithms and spellbinding solutions that bring ideas to life. As a software engineer by day and a code sorcerer by night, I'm on a relentless quest to turn caffeine into innovative software that shapes the future.
+👋 Sergio Marcial
+🌐 Minneapolis, MN
+💼 Full-stack Developer
+🚀 Backend polyglot enthusiast
+📚 Exploring new front end frameworks ([NextJS](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/))
+📚 Exploring machile learning and LLM
+📧 Reach out: [sergio@sergiomarcial.com](mailto:sergio@sergiomarcial.com)
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -265,6 +271,7 @@
 ## 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Kafka Simplified with kcat &lpar;kafka cat&rpar; 🚀](https://dev.to/sergiomarcial/kafka-simplified-with-kcat-kafka-cat-1gn7)
 - [Mastering jq: A Quick Guide to get you started](https://dev.to/sergiomarcial/mastering-jq-a-quick-guide-to-get-you-started-4mm6)
 - [🚀🧪Unlocking the Power of Approval Testing 🔥💻](https://dev.to/sergiomarcial/unlocking-the-power-of-approval-testing-a-comprehensive-guide-for-software-engineers-3o6f)
