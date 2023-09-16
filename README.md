@@ -9,7 +9,7 @@
 
 🚀 Welcome to my digital domain, where I'm a software virtuoso conducting a symphony of code! With my fingers dancing across the keyboard like a maestro's baton, I weave intricate algorithms and spellbinding solutions that bring ideas to life. As a software engineer by day and a code sorcerer by night, I'm on a relentless quest to turn caffeine into innovative software that shapes the future.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://golang.org" target="_blank">
     <img
@@ -29,6 +29,101 @@
       alt="kotlin" width="40"
       height="40" />
   </a>
+  <a href="https://groovy-lang.org/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg"
+      alt="groovy" width="40"
+      height="40" />
+  </a>    
+  <a href="https://www.scala-lang.org/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg"
+      alt="scala" width="40"
+      height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python" width="40" height="40" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      alt="js" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" />
+  </a>
+  <a href="https://developer.android.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      alt="android" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      alt="bash" width="40" height="40" />
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
+      alt="rust" width="40" height="40" />
+  </a>
+  <a href="https://webassembly.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/carlosbaraza/web-assembly-logo/master/dist/icon/web-assembly-icon.svg"
+      alt="wasm" width="40" height="40" />
+  </a>
+  
+</p>
+
+<h3 align="left">Frameworks:</h3>
+<p align="left">
+  <a href="https://ktor.io/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/ktor.svg"
+      alt="ktor" width="40"
+      height="40" />
+  </a>
+  <a href="https://micronaut.io/" target="_blank">
+    <img
+      src="https://objectcomputing.com/files/3416/2275/4315/micronaut_horizontal_black.svg"
+      alt="micronaut" width="40"
+      height="40" />
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+      alt="spring" width="40" height="40" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"
+      alt="pandas" width="40" height="40" />
+  </a>  
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"
+      alt="kafka" width="40"
+      height="40" />
+  </a>          
+  <a href="https://pulsar.apache.org/" target="_blank">
+    <img
+      src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/pulsar.svg"
+      alt="pulsar" width="40"
+      height="40" />
+  </a> 
   <a href="https://gradle.org" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"
@@ -41,65 +136,10 @@
       alt="maven" width="40"
       height="40" />
   </a>
-  <a href="https://ktor.io/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/ktor.svg"
-      alt="ktor" width="40"
-      height="40" />
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-      alt="spring" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" />
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash" width="40" height="40" />
-  </a>
   <a href="https://www.nginx.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
       alt="nginx"
-      width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
       width="40" height="40" />
   </a>
   <a href="https://www.jenkins.io" target="_blank">
@@ -116,15 +156,107 @@
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git" width="40" height="40" />
   </a>
+
+</p>
+
+<h3 align="left">Cloud:</h3>
+<p align="left">
   <a href="https://kubernetes.io" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
       alt="kubernetes" width="40"
       height="40" />
   </a>
+ <a href="https://helm.sh/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg"
+      alt="helm" width="40"
+      height="40" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"
+      alt="GCP" width="40"
+      height="40" />
+  </a>   
+    <a href="https://aws.amazon.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="AWS" width="40"
+      height="40" />
+  </a>     
+  <a href="https://azure.microsoft.com/en-us" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"
+      alt="Azure" width="40"
+      height="40" />
+  </a>
+  <a href="https://konghq.com/" target="_blank">
+    <img
+      src="./img/kong-combination-mark-blue.svg"
+      alt="kong" width="40"
+      height="40" />
+  </a>
 </p>
 
-📕 &nbsp;**Latest Blog Posts**
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb" width="40" height="40" />
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"
+      alt="redis" width="40" height="40" />
+  </a>
+  <a href="https://cassandra.apache.org/_/index.html" target="_blank">
+    <img
+      src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/cassandra-1.svg"
+      alt="cassandra" width="40" height="40" />
+  </a>
+    <a href="https://www.postgresql.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql" width="40" height="40" />
+  </a>
+    <a href="https://www.oracle.com/database/technologies/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+      alt="oracle" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" />
+  </a>
+</p>
+
+<h3 align="left">Infrastructure:</h3>
+<p align="left">
+  <a href="https://www.terraform.io/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"
+      alt="terraform" width="40" height="40" />
+  </a>
+    <a href="https://www.pulumi.com/" target="_blank">
+  <picture>
+    <source
+      srcset="./img/pulumi-on-black.svg"
+      media="(prefers-color-scheme: dark)" />
+    <source
+      srcset="./img/pulumi-on-white.svg"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img
+      src="./img/pulumi-on-black.svg" 
+      alt="pulumi" width="40" height="40"/>
+  </picture>
+
+  </a>
+</p>
+
+## 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [Kafka Simplified with kcat &lpar;kafka cat&rpar; 🚀](https://dev.to/sergiomarcial/kafka-simplified-with-kcat-kafka-cat-1gn7)
@@ -134,7 +266,7 @@
 - [🚀 Effortless Integration Tests with Testcontainers in Golang 🧪](https://dev.to/sergiomarcial/effortless-integration-testing-with-testcontainers-in-golang-44bp)
 <!-- BLOG-POST-LIST:END -->
 
-🧑🏻‍💻 &nbsp;**Stats**
+## 🧑🏻‍💻 &nbsp;**Stats**
 
 <a href="https://github.com/sergiommarcial">
   <picture height=200 align="center">
