@@ -192,10 +192,17 @@
       height="40" />
   </a>
   <a href="https://konghq.com/" target="_blank">
-    <img
-      src="./img/kong-combination-mark-blue.svg"
-      alt="kong" width="40"
-      height="40" />
+    <picture>
+      <source
+        srcset="./img/kong-combination-mark-white.svg"
+        media="(prefers-color-scheme: dark)" />
+      <source
+        srcset="./img/kong-combination-mark-blue.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img
+        src="./img/kong-combination-mark-blue.svg"
+        alt="kong" width="40" height="40" />
+    </picture>
   </a>
 </p>
 
@@ -240,25 +247,25 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"
       alt="terraform" width="40" height="40" />
   </a>
-    <a href="https://www.pulumi.com/" target="_blank">
-  <picture>
-    <source
-      srcset="./img/pulumi-on-black.svg"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="./img/pulumi-on-white.svg"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img
-      src="./img/pulumi-on-black.svg" 
-      alt="pulumi" width="40" height="40"/>
-  </picture>
-
+  <a href="https://www.pulumi.com/" target="_blank">
+    <picture>
+      <source
+        srcset="./img/pulumi-on-black.svg"
+        media="(prefers-color-scheme: dark)" />
+      <source
+        srcset="./img/pulumi-on-white.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img
+        src="./img/pulumi-on-black.svg"
+        alt="pulumi" width="40" height="40" />
+    </picture>
   </a>
 </p>
 
 ## 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Kafka Simplified with kcat &lpar;kafka cat&rpar; 🚀](https://dev.to/sergiomarcial/kafka-simplified-with-kcat-kafka-cat-1gn7)
 - [Mastering jq: A Quick Guide to get you started](https://dev.to/sergiomarcial/mastering-jq-a-quick-guide-to-get-you-started-4mm6)
 - [🚀🧪Unlocking the Power of Approval Testing 🔥💻](https://dev.to/sergiomarcial/unlocking-the-power-of-approval-testing-a-comprehensive-guide-for-software-engineers-3o6f)
