@@ -273,11 +273,11 @@
 ## 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [✨ Mermaid Markdown: Adding Life and Creativity to your GitHub Markdown Files 👩‍💻🌈📄](https://dev.to/sergiomarcial/mermaid-markdown-adding-life-and-creativity-to-your-github-markdown-files-3eie)
 - [Kafka Simplified with kcat &lpar;kafka cat&rpar; 🚀](https://dev.to/sergiomarcial/kafka-simplified-with-kcat-kafka-cat-1gn7)
 - [Mastering jq: A Quick Guide to get you started](https://dev.to/sergiomarcial/mastering-jq-a-quick-guide-to-get-you-started-4mm6)
 - [🚀🧪Unlocking the Power of Approval Testing 🔥💻](https://dev.to/sergiomarcial/unlocking-the-power-of-approval-testing-a-comprehensive-guide-for-software-engineers-3o6f)
 - [🚀 Mastering Integration Testing in Rust with Testcontainers 🧪](https://dev.to/sergiomarcial/mastering-integration-testing-in-rust-with-testcontainers-3aml)
-- [🚀 Effortless Integration Tests with Testcontainers in Golang 🧪](https://dev.to/sergiomarcial/effortless-integration-testing-with-testcontainers-in-golang-44bp)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧑🏻‍💻 &nbsp;**Stats**
